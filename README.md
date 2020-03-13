@@ -10,3 +10,4 @@ How to use
 Open the workspace named GoNativeIOS.xcworkspace in Xcode. Edit appConfig.json as appropriate.
 
 Licensing information available at https://gonative.io/
+"# nxcradio" 
